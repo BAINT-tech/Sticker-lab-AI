@@ -1,0 +1,6 @@
+<key>NSPhotoLibraryUsageDescription</key>
+<string>We need access to your photos to create stickers</string>
+<key>NSCameraUsageDescription</key>
+<string>We need camera access to take photos for stickers</string>
+<key>NSPhotoLibraryAddUsageDescription</key>
+<string>We need permission to save your stickers</string>
